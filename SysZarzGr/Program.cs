@@ -47,7 +47,6 @@ namespace SysZarzGr
             Console.WriteLine(grupa);
             Console.WriteLine("GRUPA KOPIA:");
             Console.WriteLine(grupa2);
-            Console.WriteLine("------------------------------------------------");
 
             Console.ReadKey();
 
